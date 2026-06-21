@@ -51,7 +51,7 @@ CodeAlpha_BasicChatbot/
 - AI-powered responses
 
 ## Author
-Ankita Soni
+Aditi Soni
 
 ## Internship
 CodeAlpha Python Programming Internship# CodeAlpha_BasicChatbot
